@@ -3152,5 +3152,6 @@ public class lab11 {
                 "What angel of mercy\n" +
                 "will come forward to suck the poison");
         System.out.println("\n\n\n luv u sabrina <3");
+        System.out.println("haha bye");
     }
 }
